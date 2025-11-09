@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello!
+I like writing things a metal box that makes it do stuff! I'm still learning to program (mostly for the web).
 
-<!--
-**SHAPeSsoft/SHAPeSsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently learning
+![javascript](https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_32x32.png) JavaScript/ ![typescript](https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_32x32.png) Typescript 
+![HTML](https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_32x32.png) HTML
 
-Here are some ideas to get you started:
+## Languages I want to try
+![ruby](https://github.com/abranhe/programming-languages-logos/blob/master/src/ruby/ruby_32x32.png) Ruby
+![swift](https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_32x32.png) Swift
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My OS
+
+I use PopOS primaily, and i also have Windows 11 (unregistered, because i don't like Microsoft) to just play games.
+
+**Alright, no more reading the README, stop slacking off!**
